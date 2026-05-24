@@ -32,16 +32,6 @@ Using real-world EV sales data, I built a comprehensive end-to-end analytics sol
 - Identified **top-performing states** (UP, Maharashtra, Karnataka, Delhi, Rajasthan)  
 - Revealed **consistent annual growth (2015–2020)** and seasonal demand patterns  
 
-This dashboard helps **investors, government bodies, and EV companies** understand where the market is heading—and how to align resources accordingly.
-
----
-
-![EV Sales Dashboard](https://github.com/muhammed-fazal/Electric-Vehicle-Sales-Analysis/blob/main/Screenshot%202025-07-02%20221524.png)
-
-![EV Sales Dashboard](https://github.com/muhammed-fazal/Electric-Vehicle-Sales-Analysis/blob/main/Screenshot%202025-07-02%20221555.png)
-This repository contains my **Electric Vehicle (EV) Sales Analysis and Dashboard** project, completed as part of my internship at **Unified Mentor**. The goal of this project was to analyze India’s EV sales trends and deliver actionable insights using **Python**, **SQL**, **Excel**, and **Power BI**.
-
----
 
 ## 📊 Project Overview
 
@@ -74,10 +64,4 @@ This repository contains my **Electric Vehicle (EV) Sales Analysis and Dashboard
 
 This project gave me practical exposure to combining multiple tools for end-to-end data analysis — from raw data processing in **Python & SQL** to final visualization in **Power BI**.
 
----
-
-## 📬 Connect
-
-I’m always open to feedback and collaboration!  
-Feel free to ⭐️ star this repo, raise an issue, or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammed-fazal-/).
 
